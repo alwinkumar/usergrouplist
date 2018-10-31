@@ -31,7 +31,7 @@ you may have to su as root
 
 Thank you
 
-and plese provide feedbacks if you like this programme
+and please provide feedbacks if you like this programme
 
 Alwin Kumar
 email@alwinkumar.com
